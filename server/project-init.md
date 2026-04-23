@@ -1,0 +1,2 @@
+#new
+'''npm init -y'''
